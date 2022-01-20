@@ -1,0 +1,1 @@
+{"fernando": "    with open(filepath, \"r\") as f:\r\n        data = json.load(f)", "persona": "    with open(filepath, \"r\") as f:\r\n        data = json.load(f)", "nickname": "niky"}
