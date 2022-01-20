@@ -4,7 +4,7 @@
 
 To automate tasks such as
 
-* Store multiple objects onto the computer clipboard at the same time
+* Store multiple objects onto the computer's clipboard at the same time
 * Connect to a Weather API 
 * Send email responses and text notifications
 * Search for text in a file or across multiple files
